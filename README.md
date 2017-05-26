@@ -11,12 +11,12 @@
 ## 目录
 
   - Java加强
-    - [深入理解Java反射](http://brianway.github.io/2016/03/08/mybatis-learn-1-jdbc-summary/)
-    - [深入理解Java注解](http://brianway.github.io/2016/03/08/mybatis-learn-2-mybatis-summary/)
-    - [深入理解Java泛型](http://brianway.github.io/2016/03/08/mybatis-learn-3-starting-1/)
-    - [深入理解Java类加载器](http://brianway.github.io/2016/03/08/mybatis-learn-3-starting-2/)
-    - [深入理解Java动态代理 ](http://brianway.github.io/2016/03/08/mybatis-learn-4-dao/)
-    - [深入理解Java多线程及并发 ](http://brianway.github.io/2016/03/08/mybatis-learn-5-configuration/)
+    - [深入理解Java反射](http://harmansecurity.cn/2017/05/24/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E5%8F%8D%E5%B0%84/)
+    - [深入理解Java注解](http://harmansecurity.cn/2017/05/24/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E6%B3%A8%E8%A7%A3/)
+    - [深入理解Java泛型](http://harmansecurity.cn/2017/05/24/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E6%B3%9B%E5%9E%8B/)
+    - [深入理解Java类加载器](http://harmansecurity.cn/2017/05/24/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8/)
+    - [深入理解Java动态代理 ](http://harmansecurity.cn/2017/05/25/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/)
+    - [深入理解Java多线程及并发 ](http://harmansecurity.cn/2017/05/25/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%8F%8A%E5%B9%B6%E5%8F%91/)
 	
 -----
 
